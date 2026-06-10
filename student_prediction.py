@@ -5,7 +5,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
 
 # Load dataset
-df = pd.read_csv('dataset.csv')
+df = pd.read_csv('dataset.csv', sep=None, engine='python')
 
 print("Dataset Overview:")
 print(df.head())
