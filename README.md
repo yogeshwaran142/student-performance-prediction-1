@@ -8,6 +8,7 @@ An AI-based Machine Learning project that predicts whether a student will **Pass
 
 This project applies **Logistic Regression** to classify student outcomes using a real-world-style dataset of 200 student records. It demonstrates end-to-end ML workflow — from data loading and preprocessing to model training, evaluation, and prediction.
 
+
 ---
 
 ## 🛠️ Tech Stack
